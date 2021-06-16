@@ -7,6 +7,6 @@ Generate images continuosly for an indeterminate period of time at a frame rate 
 ## Experiments
 ### 1. DCGAN
 #### Model
-(DCGAN)[https://github.com/pytorch/tutorials/blob/master/beginner_source/dcgan_faces_tutorial.py]
+[DCGAN](https://github.com/pytorch/tutorials/blob/master/beginner_source/dcgan_faces_tutorial.py)
 #### Dataset
-(WikiArt Dataset)[http://web.fsktm.um.edu.my/~cschan/source/ICIP2017/wikiart.zip] (25.4Gb)
+[WikiArt Dataset](http://web.fsktm.um.edu.my/~cschan/source/ICIP2017/wikiart.zip) (25.4Gb)
